@@ -25,7 +25,7 @@ SECRET_KEY = 'm=agk7!%j(!m6+-h*=&8ck@qjf#zo$659@4^&b#&)31$__r27^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['csvreaderapp.herokuapp.com']
 
 
 # Application definition
