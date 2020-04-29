@@ -157,5 +157,4 @@ whitenoise==4.1.2
 widgetsnbextension==3.5.1
 wrapt==1.10.11
 WTForms==2.2.1
-wxPython==4.0.7.post2
 zipp==3.1.0
